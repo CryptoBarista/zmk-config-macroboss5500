@@ -1,0 +1,6 @@
+if SHIELD_MACROBOSS5500
+
+config ZMK_KEYBOARD_NAME
+    default "MacroBoss5500"
+
+endif
