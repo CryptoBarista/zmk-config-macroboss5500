@@ -19,4 +19,4 @@
 ---
 include:
   - board: bluemicro840_v1
-    shield: macroboss5500
+    shield: MacroBoss5500
